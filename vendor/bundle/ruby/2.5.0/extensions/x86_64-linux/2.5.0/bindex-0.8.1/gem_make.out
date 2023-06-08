@@ -1,0 +1,15 @@
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/home/robert/.rbenv/versions/2.5.8/bin/ruby -I /home/robert/.rbenv/versions/2.5.8/lib/ruby/site_ruby/2.5.0 -r ./siteconf20230608-58828-lve51e.rb extconf.rb
+creating Makefile
+
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20230608-58828-jnr8s4/skiptrace/internal

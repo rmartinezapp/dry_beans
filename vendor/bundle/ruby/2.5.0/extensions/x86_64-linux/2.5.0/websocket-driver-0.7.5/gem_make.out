@@ -1,0 +1,15 @@
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/robert/.rbenv/versions/2.5.8/bin/ruby -I /home/robert/.rbenv/versions/2.5.8/lib/ruby/site_ruby/2.5.0 -r ./siteconf20230608-58828-1s9ftdt.rb extconf.rb
+creating Makefile
+
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/robert/Documentos/Desarrollo/dry_beans/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20230608-58828-epih5c
